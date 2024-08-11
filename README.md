@@ -1,0 +1,1 @@
+# PokeScraper-A-Next-Gen-Playwright-Solution-for-Efficient-Pok-mon-Data-Extraction
